@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: charlesmaxwellyoung@gmail.com
 description: "一个开心的程序员."
 keyword: "Charles, Charles Blog, 杨阳的博客, Young, 杨阳, 前端, Web, python"
-url: "https://charlesmaxwellyoung.github.io"          # your host, for absolute URL
+url: "https://vineo.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CharlesMaxwellYoung/charlesmaxwellyoung.github.io.git" # you code repository
 
@@ -65,8 +65,8 @@ gitalk:
   clientID: dc2433393733dddf33d8                            #生成的clientID
   clientSecret: 9bc70ffd8c9b3c32a1c76e97c4a4267a3e0d73d3    #生成的clientSecret
   repo: charlesmaxwellyoung.github.io    #仓库名称
-  owner: charlesmaxwellyoung    #github用户名
-  admin: charlesmaxwellyoung
+  owner: CharlesMaxwellYoung    #github用户名
+  admin: CharlesMaxwellYoung
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

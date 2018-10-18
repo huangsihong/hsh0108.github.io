@@ -6,7 +6,7 @@ email: 1041398303@qq.com
 description: "一个开心的程序员."
 keyword: "Charles, Charles Blog, 黄思红的博客, Young, 黄思红, 后端, Web, python"
 url: "https://huangsihong.github.io/hsh0108.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://huangsihong.github.io/hsh0108.github.io/"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/huangsihong/hsh.github.io.git" # you code repository
 
 # Sidebar settings
